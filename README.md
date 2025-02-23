@@ -1,4 +1,4 @@
-# Mckay's App Template
+# Mckay's App Template 
 
 This is a full-stack app template for courses on [Takeoff](https://JoinTakeoff.com/).
 
